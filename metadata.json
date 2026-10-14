@@ -1,0 +1,6 @@
+{
+  "name": "SAC Gestor - Sistema de Gestão de Reclamações",
+  "description": "Sistema completo para registro e gestão de reclamações de clientes, com controle de acesso por usuários, relatórios por período e status, sequenciador de registros e integração com cadastro de produtos e tipos de clientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
